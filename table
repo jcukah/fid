@@ -8,14 +8,16 @@ td, th {  boarder: 2px solid #00BFFF }
 </style>
 <body>
 <table>
+
 <tr>
 <th colspan= "2"> Hero</th>
-<th colpan= "2"> Role</th>
+<th colspan= "2"> Role</th>
 <th colspan= "2"> Primary Weapon</th>
 <th colspan= "2"> Secondary Weapon</th>
 <th colspan= "2"> Primary Technique</th>
 <th colspan= "2"> Secondary Technique</th>
 </tr>
+
 <tr>
 <th rowspan= "2"></th>
 <th scope= "row">Mario<img src ="mario-ability.jpg" alt=""></th>
@@ -25,15 +27,17 @@ td, th {  boarder: 2px solid #00BFFF }
 <td>Hero Sight</td>
 <td>M-Power</td>
 </tr>
+
 <tr>
 <th rowspan= "2"></th>
 <th scope= "row">Rabbid Mario<img src ="rabbid-mario-ability.jpg" alt=""></th>
 <td>Brawler</td>
 <td>Boomshot</td>
 <td>Melee</td>
-<tdBodyguard</td>
+<td>Bodyguard</td>
 <td>Magnet Dance</td>
 </tr>
+
 <tr>
 <th rowspan= "2"></th>
 <th scope= "row">Peach<img src ="princess-peach-ability.jpg" alt=""></th>
@@ -43,6 +47,7 @@ td, th {  boarder: 2px solid #00BFFF }
 <td>Royal Gaze</td>
 <td>Protection</td>
 </tr>
+
 <tr>
 <th rowspan= "2"></th>
 <th scope= "row">Rabbid Peach<img src ="rabbid-peach-ability.jpg" alt=""></th>
@@ -52,6 +57,8 @@ td, th {  boarder: 2px solid #00BFFF }
 <td>Shieldt</td>
 <td>Heal</td>
 </tr>
+
+<tr>
 <th rowspan= "2"></th>
 <th scope= "row">Yoshi<img src ="yoshi-ability.jpg" alt=""></th>
 <td>Eggforcer</td>
@@ -60,6 +67,7 @@ td, th {  boarder: 2px solid #00BFFF }
 <td>EggBeatert</td>
 <td>Super Chance</td>
 </tr>
+
 <tr>
 <th rowspan= "2"></th>
 <th scope= "row">Rabbid Yoshi<img src ="rabbid-yoshi-ability.jpg" alt=""></th>
@@ -69,6 +77,7 @@ td, th {  boarder: 2px solid #00BFFF }
 <td>Outer Shell</td>
 <td>Scradey Rabbid</td>
 </tr>
+
 <tr>
 <th rowspan= "2"></th>
 <th scope= "row">Luigi<img src ="luigi-ability.jpg" alt=""></th>
@@ -78,6 +87,7 @@ td, th {  boarder: 2px solid #00BFFF }
 <td>Steely Stare</td>
 <td>Itchy Feet</td>
 </tr>
+
 <tr>
 <th rowspan= "2"></th>
 <th scope= "row">Rabbid Luigi<img src ="rabbid-luigi-ability.jpg" alt=""></th>
@@ -87,6 +97,6 @@ td, th {  boarder: 2px solid #00BFFF }
 <td>Super Barrier</td>
 <td>Weaken</td>
 </tr>
-<tr>
+
 </table>
 </body>
