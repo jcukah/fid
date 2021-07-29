@@ -8,7 +8,7 @@
    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
   }
   body {
-    background-color: #F08080;
+    background-color: orange;
     background:
        url(images/purpledot.png) left top repeat-y,
        url(images/purpledot.png) right top repeat-y;
